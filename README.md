@@ -1,2 +1,5 @@
 # hello-world
-Notes for myself
+
+Greetings,
+
+I'm Zero.
